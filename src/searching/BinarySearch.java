@@ -28,4 +28,8 @@ public class BinarySearch {
         }
         return -1;
     }
+
+    public int search(int arr[],){
+        for ()
+    }
 }
